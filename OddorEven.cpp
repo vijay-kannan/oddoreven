@@ -1,16 +1,16 @@
 #include<iostream.h>
 #include<conio.h>
-Void main()
+void main()
 {
-Int num
-Cout<<"Enter the Number";
-Cin>>num;
-If(num%2==0)
+int num
+cout<<"Enter the Number";
+cin>>num;
+if(num%2==0)
 {
-Cout<<"The number is even";
+cout<<"The number is even";
 }
-Else
+else
 {
-Cout<<"The number is odd";
+cout<<"The number is odd";
 }
 }
