@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int num
+int num;
 cout<<"Enter the Number";
 cin>>num;
 if(num%2==0)
